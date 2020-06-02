@@ -1,0 +1,7 @@
+print("    /|")
+print("   / | ")
+print("  /  |")
+print(" /   |")
+print("/____|")
+print(list(range(0,-5)))
+print(list(range(4,10,2)))
